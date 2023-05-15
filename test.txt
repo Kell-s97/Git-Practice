@@ -10,3 +10,6 @@
 
 Git is used for version control!
 Git is important for your future work experience!
+
+got log to show git commit history
+git checkout main to return to main branch
