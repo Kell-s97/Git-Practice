@@ -1,0 +1,9 @@
+# new item test.txt : creates new item on windows
+# Touch creates a new Item on linux and MAC. 
+# ctrl-s Saves file
+# crtl-z undoes
+# ctrl-c copy
+# ctrl-v cut
+# ctrl-a highlight everything
+
+-- add -- commit -- pull -- push --
